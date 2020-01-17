@@ -1,6 +1,6 @@
 **CanvasPicture Scraper**
 
-it's simplest Google Chrom extension to help you get image from all Canvas elements on Web Page.
+it's simplest Google Chrom extension to help you get image from all Canvas elements on a Web Page.
 
 information about installing the extension is available in Russian below
 
